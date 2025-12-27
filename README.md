@@ -5,3 +5,4 @@ I am a deep learning specialist focusing on Reinforcement Learning, Representati
 - Python, Rust
 - Torch, Jax, Tensorflow, Burn
 - Fastapi, Axiom, Django
+- Plotly, Matplotlib
